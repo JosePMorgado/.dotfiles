@@ -1,0 +1,11 @@
+# Git related files
+.git
+.gitignore
+.gitconfig
+
+# File extensions
+\.md$
+
+# Well-Known files
+README.*
+LICENSE
