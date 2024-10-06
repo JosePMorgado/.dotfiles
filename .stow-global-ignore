@@ -1,0 +1,10 @@
+# Git
+\.git
+\.gitignore
+\.gitmodules
+
+# Stow
+\.stow-global-ignore
+
+# File extensions
+\.md
