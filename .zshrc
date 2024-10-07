@@ -36,5 +36,10 @@ bindkey "^[[H" beginning-of-line
 bindkey "^[[4~" end-of-line
 bindkey "^[[F" end-of-line
 
+# Set enviroment variables
+export XDG_CONFIG_HOME=$HOME/.config
+
+# Source the Zsh theme
+source $XDG_CONFIG_HOME/.config/powerlevel10k/powerlevel9k.zsh-theme
 
 # End of lines configured by JosePMorgado
